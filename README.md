@@ -1,2 +1,3 @@
 # Processing-Portrait-generator
-Generador de retratos basado en processing.
+
+![](https://github.com/filete/Processing-Portrait-generator/blob/main/Generative_portraits.gif)
